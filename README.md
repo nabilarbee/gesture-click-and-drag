@@ -30,6 +30,6 @@ Make sure you install the correct versions of each component.
 | [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) | `0.9.54` |
 
 
-### References & Learning
+### References
 
 *   The computer vision implementation was heavily inspired by the [Viral Monkey Thinking Meme Project](https://github.com/K4ZED/MonkeyMeme-Gesture_Tracker/tree/main) created by [Kenza Athallah Nandana Wijaya](https://github.com/K4ZED). A big thank you to him.
